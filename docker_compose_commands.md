@@ -1,3 +1,8 @@
+Please remember to check your Docker version along with the file version if you run into any issues. You can find more here:
+
+https://docs.docker.com/compose/compose-file/compose-versioning/
+
+
 The following commands can be found at https://docs.docker.com/compose/reference/
 
 
@@ -31,3 +36,15 @@ Stops containers and removes containers, networks, volumes, and images created b
 
 
 For a Compose file, we build a YML or YAML (.yml or .yaml both work) to define our services, networks, and volumes. The default path for a Compose file is ./docker-compose.yml.
+
+
+For examples of version 3 please see: https://docs.docker.com/compose/compose-file/#compose-file-structure-and-examples
+
+
+Docker Compose File Reference: https://docs.docker.com/compose/
+
+
+Also, when building a compose file the following reference can be extremely helpful:
+
+https://docs.docker.com/compose/compose-file/#expose
+
