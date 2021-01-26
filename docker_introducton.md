@@ -18,7 +18,7 @@ Running instance of an container.
 2. Between host and container
 3. Between containers
 
-<img src="images/docker_volmes.png">
+<img src="images/docker_volumes.png">
 
 
 # Dockerfile 
